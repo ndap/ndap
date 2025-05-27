@@ -1,131 +1,115 @@
-# 👋 Hey there, I'm ndap!
+# 👋 Hey there, I'm Dafa Ali!
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Kinesthetic+Learner;Problem+Solver;Always+Building+Something)
-  
-  [![GitHub followers](https://img.shields.io/github/followers/ndap?style=social)](https://github.com/ndap)
-  [![GitHub stars](https://img.shields.io/github/stars/ndap?style=social)](https://github.com/ndap)
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+in+Training;High+School+Student;Passionate+Programmer;Kinesthetic+Learner)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
 ## 🚀 About Me
 
-> *"Build. Break. Learn. Repeat."* – My philosophy for growth
-
-I'm a passionate student developer who believes the best way to learn is by **getting your hands dirty**. As a kinesthetic learner, I don't just read about code – I write it, break it, fix it, and make it better.
+Welcome to my corner of GitHub! I'm a **high school student** with big dreams and an even bigger passion for technology. While my classmates might be worried about pop quizzes, I'm here building the future, one line of code at a time.
 
 ### 🎯 What Drives Me
-- **Creating solutions** that solve real problems
-- **Learning through experimentation** – trial and error is my best teacher
-- **Building projects** that challenge my current skill level
-- **Exploring new technologies** before they become mainstream
+- **🌟 Aspiring Full Stack Developer** - From frontend magic to backend wizardry
+- **💻 Programming Enthusiast** - I code for fun, passion, and endless possibilities
+- **🗣️ Language Explorer** - Fluent in Indonesian, learning **日本語** and mastering English
+- **🧮 Math Appreciation** - It's actually fun when it's not for school tests!
+
+### 🎭 My Learning Style
+I'm a **kinesthetic learner** at heart - I believe in learning by doing, not just reading. You'll find me:
+- Building projects to understand concepts
+- Breaking things to learn how they work
+- Getting my hands dirty with real code
+- Experimenting with new technologies
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack & Skills
 
-<div align="center">
-
-### Languages & Frameworks
+### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🔧 Technologies & Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Dafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 </div>
 
 ---
 
-## 🌟 What I'm Up To
+## 🌟 Current Focus
 
 ```javascript
-const ndap = {
-    currentlyLearning: ["Advanced React Patterns", "System Design", "日本語 N3 Level"],
-    workingOn: ["Full-stack web applications", "Open source contributions"],
-    interests: ["Web Development", "Mathematics", "Language Learning"],
-    learningStyle: "Kinesthetic - Learn by doing, not just reading",
-    funFact: "I find math surprisingly fun when it's not for school tests! 📊",
-    languages: {
-        programming: ["JavaScript", "TypeScript", "Python", "SQL"],
-        human: ["English", "日本語 (learning)", "Native Language"]
-    }
+const dafaAli = {
+    currentGoal: "Becoming a Full Stack Developer",
+    learningPath: [
+        "Frontend Development (React, Vue.js)",
+        "Backend Development (Node.js, Python)",
+        "Database Management",
+        "DevOps Basics"
+    ],
+    currentlyExploring: "Modern JavaScript Frameworks",
+    askMeAbout: ["Web Development", "Programming Logic", "Learning Tips"],
+    funFact: "I debug with console.log() and I'm proud of it! 🐛"
 };
 ```
 
 ---
 
-## 📊 GitHub Analytics
+## 🎮 Fun Facts About Me
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndap&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndap&theme=tokyonight&hide_border=true)
-  
-</div>
+- 🧩 I solve coding problems like puzzles - breaking them down piece by piece
+- 🌏 Trilingual journey: Indonesian (native), English (fluent), 日本語 (learning)
+- 🎯 I learn best when I can touch, build, and experiment
+- 🚀 My motto: *"Build. Break. Learn. Repeat."*
+- 📚 Math becomes fun when it's applied to real coding problems
 
 ---
 
-## 🎌 Learning Journey
+## 🤝 Let's Connect!
 
-### 💻 Programming Path
-- **Frontend**: Building responsive, interactive user experiences
-- **Backend**: Creating robust APIs and managing databases  
-- **Full Stack**: Connecting all the pieces together seamlessly
-- **DevOps**: Learning deployment, scaling, and monitoring
-
-### 🇯🇵 Language Learning
-Currently studying **日本語** (Japanese) because I believe learning languages opens doors to new perspectives and opportunities!
-
-### 📐 Mathematics
-Exploring the beauty of math beyond textbooks – discovering how mathematical concepts apply to programming and problem-solving.
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
-I'm always excited to work on interesting projects and meet fellow developers who share the passion for building cool stuff!
+I'm always excited to collaborate on interesting projects or just chat about technology!
 
 <div align="center">
 
-### 💬 Reach Out If You Want To:
-- **Collaborate** on exciting projects
-- **Share ideas** about tech, math, or languages  
-- **Learn together** through hands-on experimentation
-- **Build something awesome** that makes a difference
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ndap)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ndap)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
 ---
 
-<div align="center">
+## 💭 Philosophy
 
-### 🎯 Current Focus
-**Building projects that challenge me to grow while solving real problems**
-
-*Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out!* ✨
+> *"The best way to learn programming is not by reading about it, but by writing code, making mistakes, and learning from them. Every bug is a lesson, every error is growth."*
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ndap&color=blueviolet&style=flat-square&label=Profile+Views)
+<div align="center">
+
+### 🚀 "Build. Break. Learn. Repeat." 🚀
+
+*Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out for collaborations!*
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
 
 </div>
