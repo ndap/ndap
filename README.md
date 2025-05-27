@@ -48,31 +48,16 @@ I'm a **kinesthetic learner** at heart - I believe in learning by doing, not jus
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Dafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 🌟 Current Focus
 
 ```javascript
 const dafaAli = {
     currentGoal: "Becoming a Full Stack Developer",
     learningPath: [
-        "Frontend Development (React, Vue.js)",
-        "Backend Development (Node.js, Python)",
-        "Database Management",
-        "DevOps Basics"
+              "Flutter"
     ],
-    currentlyExploring: "Modern JavaScript Frameworks",
-    askMeAbout: ["Web Development", "Programming Logic", "Learning Tips"],
+    currentlyExploring: "Flutter",
+    askMeAbout: ["Mobile Development", "Programming Logic", "Learning Tips"],
     funFact: "I debug with console.log() and I'm proud of it! 🐛"
 };
 ```
@@ -82,7 +67,7 @@ const dafaAli = {
 ## 🎮 Fun Facts About Me
 
 - 🧩 I solve coding problems like puzzles - breaking them down piece by piece
-- 🌏 Trilingual journey: Indonesian (native), English (fluent), 日本語 (learning)
+- 🌏 Trilingual journey: Indonesian (native), English (B2), 日本語 (N5)
 - 🎯 I learn best when I can touch, build, and experiment
 - 🚀 My motto: *"Build. Break. Learn. Repeat."*
 - 📚 Math becomes fun when it's applied to real coding problems
