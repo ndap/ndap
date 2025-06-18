@@ -8,14 +8,12 @@ const profile = {
     role: "Student Developer",
     location: "Indonesia 🇮🇩",
     current: "High School",
-    passion: "Coding & Problem Solving",
+    passion: "Coding & Nihongo",
     status: "Available for collaboration"
 };
 ```
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ### 💻 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,34 +34,15 @@ const profile = {
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
-
-
 
 ## 🌐 Connect With Me
-
-<div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourusername)
 
-</div>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" />
-</div>
-
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=yellow" />
-</div>
 
 <div align="center">
   <h3>Thanks for visiting! 😊</h3>
