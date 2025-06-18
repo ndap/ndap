@@ -42,65 +42,7 @@ const profile = {
 
 </div>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 Learning
-- Advanced Flutter animations
-- Laravel API development
-- Database optimization
-- Clean code practices
-
-</td>
-<td width="50%">
-
-### 🚀 Projects
-- 📱 E-commerce mobile app
-- 🌐 School management system
-- 🎮 Simple game with Flutter
-- 📊 Data visualization dashboard
-
-</td>
-</tr>
-</table>
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
-</div>
-
-## 🎮 Fun Zone
-
-<div align="center">
-
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg)
-
-### 💡 Developer Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ## 🌐 Connect With Me
 
