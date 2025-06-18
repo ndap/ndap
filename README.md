@@ -1,8 +1,4 @@
-# Hi there! I'm アルダプ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=High+School+Student;Web+%26+Mobile+Developer;AI+Enthusiast;Coffee+Addict+%E2%98%95" alt="Typing SVG" />
-</div>
+# Eyyooo I'm アルダプ(Aldap) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ## 🙋‍♂️ About Me
 
